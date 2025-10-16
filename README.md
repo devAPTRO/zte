@@ -28,7 +28,7 @@ Thank u for trying this out!!
 
 
 ### Emulators/ports used: <br>
-Zelda 1: Mesen <br>
+Zelda 1: bsnes <br>
 A Link to the Past: zelda3 PC Port <br>
 Link's Awakening: mGBA <br>
 Ocarina of Time: Ship of Harkinian <br>
