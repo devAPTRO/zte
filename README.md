@@ -14,11 +14,11 @@ Repository to download Zelda Triforce Edition (mario all stars but for zelda gam
 ### HOW TO INSTALL:
 
 Required roms: <br>
-  -The Legend Of Zelda USA (PRG0/Rev 0).nes <br>
-  -The Legend Of Zelda: A Link to the Past.sfc <br>
-  -The Legend of Zelda: Link's Awakening.gbc <br>
-  -The Legend of Zelda: Ocarina of Time.z64 <br>
-  -The Legend of Zelda: Majora's Mask.z64 <br>
+  -Zelda Third Quest.**smc** <br>
+  -The Legend Of Zelda: A Link to the Past.**sfc** <br>
+  -The Legend of Zelda: Link's Awakening.**gbc** <br>
+  -The Legend of Zelda: Ocarina of Time.**z64** <br>
+  -The Legend of Zelda: Majora's Mask.**z64** <br>
 
 
 Simply download the .rar of the latest release, run the INSTALL.bat file and go through the installer carefully:)
